@@ -1,0 +1,6 @@
+{
+  "name": "AURA - AI Companion",
+  "description": "A high-fidelity landing page prototype for a premium, emotionally intuitive AI companion robot dog, built with tranquil Wabi-sabi ethics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
